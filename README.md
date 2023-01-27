@@ -93,10 +93,8 @@ product.html
     <title>Furper Private Limited</title>
      <link rel="stylesheet" href="/static/css/layout.css">
     <link rel="icon" href="/static/img/index.jpeg" type="image/x-icon">
-    
-  </head>
-
-  <body>
+ </head>
+ <body>
     <div class="container">
       <div class="banner">Furper Private Limited.</div>
       <div class="menu">
