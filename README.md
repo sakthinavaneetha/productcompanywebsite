@@ -86,7 +86,10 @@ home.html
   </body>
 </html>
 
+
+
 product.html
+
  <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -169,8 +172,10 @@ product.html
     </div>
   </body>
 </html>
+      
 
 people.html
+      
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -238,8 +243,11 @@ people.html
     </div>
   </body>
 </html>
+      
 
 contact.html
+      
+      
 <!DOCTYPE html>
 <html lang="en">
   <head>
