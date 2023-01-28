@@ -4,7 +4,7 @@
 }
 body {
   background-color: whitesmoke;
-  color: #17421d;
+  color: #ffffff;
 }
 .container {
   width: 1080px;
@@ -20,20 +20,20 @@ body {
   width: 100%;
   height: 250px;
   text-align: center;
-  font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  font-size: 30px;
+  background-image: url("/static/img/banner.jpg");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
-  padding-top: 150px;
-  color: #16d1ae;
+  padding-top: 118px;
+  color: #f4f5f5;
 }
 
 .menu {
   display: block;
   width: 100%;
   height: 50px;
-  font-size: larger;
-  background-color: #5bb045;
+  font-size: smaller;
+  background-color:#5bb045;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -60,7 +60,7 @@ body {
 .content {
   display: block;
   width: 100%;
-  background-color: #cffffd;
+  background-color: black;
   min-height: 500px;
   margin: 0px 0px 0px 0px;
   border-width: 1px;
